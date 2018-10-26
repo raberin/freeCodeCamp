@@ -104,7 +104,7 @@ In some cases you might want to keep the navbar at the top or bottom of the scre
 ```
 
 #### Collapsing the navbar
-On a small screen (such as a phone or tablet) the navbar is going to take up too much space. Luckily the option to collase the navbar exists. You can accomplish this using the following example.
+On a small screen (such as a phone or tablet) the navbar is going to take up too much space. Luckily the option to collapse the navbar exists. You can accomplish this using the following example.
 ```html
 <nav class="navbar navbar-default">
   <div class="container-fluid">
