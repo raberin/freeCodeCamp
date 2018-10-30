@@ -3,7 +3,7 @@ title: Hash Tables
 ---
 
 ## Hash Tables
-Hash table (or Hash Map) is a data structure that can map keys to values.A hash table uses a hash function to compute an index 
+Hash table (or Hash Map) is a data structure that can map keys to values. A hash table uses a hash function to compute an index 
 into an array of buckets, from which the desired values can be found.Time complexity of a well defined Hash function can be O(1).
 
 A hash table (hash map) is a data structure which implements an associative array abstract data type, a structure that can map keys to values. A hash table uses a hash function to compute an index into an array of buckets or slots, from which the desired value can be found.
